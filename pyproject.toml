@@ -1,4 +1,2 @@
-[project.scripts]
-app = "backend.server:app"
 [tool.vercel.scripts]
 build = "python build.py"
